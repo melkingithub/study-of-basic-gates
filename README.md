@@ -84,10 +84,10 @@ nor (y7, a, b) ;
 endmodule
 ````
 **Logic symbol & Truthtable**
-![image](https://github.com/melkingithub/study-of-basic-gates/assets/151421291/ec3570e9-9d64-47b3-8614-0d3bfed6c5d8)
+![image](https://github.com/melkingithub/study-of-basic-gates/assets/151421291/b4ec7926-19d9-422e-b0a8-8d050c30cff4)
 
 **RTL realization Output:** 
-![image](https://github.com/melkingithub/study-of-basic-gates/assets/151421291/eac1aed6-1251-4fa6-9315-d6fb4daaccad)
+![image](https://github.com/melkingithub/study-of-basic-gates/assets/151421291/159f8e53-8f28-4ff7-ba05-f7e2b144dda3)
 
 **RTL**
 ![image](https://github.com/melkingithub/study-of-basic-gates/assets/151421291/f86cc2e6-c384-4ded-bbbf-6c1f873578bb)
